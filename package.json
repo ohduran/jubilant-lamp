@@ -55,6 +55,7 @@
     "gatsby-source-ghost": "4.0.4",
     "gatsby-transformer-sharp": "2.3.16",
     "lodash": "4.17.15",
+    "minimist": "^1.2.5",
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "react-helmet": "5.2.1"
